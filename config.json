@@ -1,0 +1,4 @@
+{
+    "connection_string": "appcgid:AppCg1d.!@tcp(127.0.0.1:3306)/appcgid",
+    "port": 8080
+}
